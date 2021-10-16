@@ -30,6 +30,9 @@ jobs:
       - name: Configuration File
         run: |
           mv ${GITHUB_WORKSPACE}/config.toml ${GITHUB_WORKSPACE}/loconotion
+          mv ${GITHUB_WORKSPACE}/favicon.svg ${GITHUB_WORKSPACE}/loconotion
+          mv ${GITHUB_WORKSPACE}/favicon.png ${GITHUB_WORKSPACE}/loconotion
+          
       - name: Install and Run
         run: |
           python -m pip install --upgrade pip
