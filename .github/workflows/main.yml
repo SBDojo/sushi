@@ -37,7 +37,7 @@ jobs:
           python -m pip install --upgrade pip
           cd ${GITHUB_WORKSPACE}/loconotion
           pip install -r requirements.txt
-          python loconotion example/example_site.toml > test.log 2>&1
+          python loconotion example/example_site.toml
       - name: Deploy to Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
