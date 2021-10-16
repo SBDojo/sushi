@@ -42,7 +42,7 @@ jobs:
           BRANCH: netlify
           FOLDER: loconotion/dist
           CLEAN: true
-          SINGLE_COMMIT: true
+          single-commit: true
 
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
