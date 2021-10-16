@@ -53,8 +53,12 @@ page = "https://sushi-cards.notion.site/Sushi-Cards-619887c5687f47f1bf41ae15810e
   # each key in the table maps to an atttribute in the tag
   # e.g. the following injects this tag in the <head>:
   #   <link href="favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/> 
-  # [[site.inject.head.link]]
-  # rel="icon" 
-  # sizes="16x16"
-  # type="image/png"
-  # href="/example/favicon-16x16.png"
+   [[site.inject.head.link]]
+   rel="icon" 
+   type="image/svg+xml"
+   href="/favicon.svg"
+   
+   [[site.inject.head.link]]
+   rel="icon" 
+   type="image/png"
+   href="/favicon.png"
