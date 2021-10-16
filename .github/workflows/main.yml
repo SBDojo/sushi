@@ -21,6 +21,7 @@ jobs:
           sudo apt-get -y update
           sudo apt-get -y install chromium-browser
           sudo apt-get -y install google-chrome-stable
+          pip install --upgrade pip
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
