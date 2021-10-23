@@ -38,7 +38,7 @@ page = "https://sushi-cards.notion.site/Sushi-Cards-619887c5687f47f1bf41ae15810e
   #   body: non-heading text on the page
   #   code: text inside code blocks
    [site.fonts]
-   site = 'Ubuntu'
+   site = 'Lato'
    navbar = ''
    title = 'Montserrat'
    h1 = 'Montserrat'
