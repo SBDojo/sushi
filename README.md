@@ -1,5 +1,5 @@
 # Sushi Cards
-Welcome to the South Brunswick CoderDojo sushi card repository! In this repo, we store the HTMl source code for our sushi cards, which are then deployed onto [Netlify](https://www.netlify.com/). These sushi cards are written using [Notion](https://notion.so) and built with [Loconotion](https://github.com/leoncvlt/loconotion).
+Welcome to the South Brunswick CoderDojo sushi card repository! In this repo, we store the HTML source code for our sushi cards, which are then deployed onto [Netlify](https://www.netlify.com/). These sushi cards are written using [Notion](https://notion.so) and built with [Loconotion](https://github.com/leoncvlt/loconotion).
 
 ## Use
 To access our sushi cards, go to our [sushi card website](https://sushi.sbcoderdojo.com).
