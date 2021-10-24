@@ -6,7 +6,7 @@ name = ""
 
 # the notion.so page to being parsing from. This page will become the index.html
 # of the generated site, and loconotion will parse all sub-pages present on the page
-page = "https://sushi-cards.notion.site/Sushi-Cards-619887c5687f47f1bf41ae15810e9a2c"
+page = "https://sbdojo.notion.site/Sushi-Cards-619887c5687f47f1bf41ae15810e9a2c"
 
 ## Global Site Settings ##
 # this [site] table defines override settings for the whole site
