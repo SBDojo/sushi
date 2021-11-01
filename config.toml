@@ -40,10 +40,10 @@ page = "https://sbdojo.notion.site/Sushi-Cards-619887c5687f47f1bf41ae15810e9a2c"
    [site.fonts]
    site = ''
    navbar = ''
-   title = 'Montserrat'
-   h1 = 'Montserrat'
-   h2 = 'Montserrat'
-   h3 = 'Montserrat'
+   title = ''
+   h1 = ''
+   h2 = ''
+   h3 = ''
    body = ''
    code = 'Ubuntu Mono'
 
